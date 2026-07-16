@@ -7,7 +7,7 @@ export const generateSearchTerms = () => {
     'Gurgaon'
   ]
 
-  const titles = ['Full Stack Engineer', 'AI Engineer']
+  const titles = ['0 years of experience full stack engineer', '0 years of experience front end engineer', '0 years of experience back end engineer']
 
   // const time = 'week'
   const time = '24 hours'
