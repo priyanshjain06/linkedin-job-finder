@@ -7,6 +7,11 @@ export const generateSearchTerms = () => {
     'Gurgaon'
   ]
 
+  // 'Bangalore',
+  //   'Pune',
+  //   'Nodia',  
+  //   'Delhi NCR',
+
   const titles = ['0 years of experience full stack engineer', '0 years of experience front end engineer', '0 years of experience back end engineer']
 
   // const time = 'week'
